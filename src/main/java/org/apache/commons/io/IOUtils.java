@@ -76,7 +76,7 @@ import org.apache.commons.io.output.StringBuilderWriter;
 import org.apache.commons.io.output.UnsynchronizedByteArrayOutputStream;
 
 /**
- * General IO stream manipulation utilities.
+ * General IO stream manipulation utilities (modified by MS26902920).
  * <p>
  * This class provides static utility methods for input/output operations.
  * </p>
